@@ -12,8 +12,8 @@ A tool focused on making Minecraft server and mod setup easier, as well as manag
 
 ## Quick Start
 
-1. Download the latest version (`mtils.exe`) from the Releases page.
-2. Run the executable. Required configuration files and directories will be created automatically.
+1. Download the latest pre-compiled build (`mtils-release-windows.zip`) from the [Releases](https://github.com/devoirinyou-ai/mtils/releases) page, extract it, and run `mtils.exe`.
+2. Required configuration files and directories will be created automatically.
 3. Place custom themes in the `themes/` folder.
 
 ## Commands
