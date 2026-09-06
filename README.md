@@ -37,3 +37,4 @@ theme install user/repo
 ## Notes
 
 This is the first public release of mtils. The project is still under active development, so some features and internal implementation details may change.
+In accordance with project transparency guidelines, please note that an AI assistant (Gemini) was used during development as a coding and engineering tool via prompt engineering to help structure, write, and optimize the codebase.
