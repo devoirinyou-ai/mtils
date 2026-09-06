@@ -55,7 +55,7 @@ CONFIG_FILE = os.path.join(BASE_DIR, "config.json")
 THEMES_DIR = os.path.join(BASE_DIR, "themes")
 CREATED_DIR = os.path.join(BASE_DIR, "created")
 
-CF_API_KEY = "$2a$10$bL4bIL5pUWqfcO7KQtnMReakwtfHbNKh6v1uTpKlzhwoueEJQnPnm"
+CF_API_KEY = "you dont need it"
 
 MC_VERSIONS_ORDERED = [
     "1.16.5", "1.17.1", "1.18.2", "1.19.2", "1.19.4",
